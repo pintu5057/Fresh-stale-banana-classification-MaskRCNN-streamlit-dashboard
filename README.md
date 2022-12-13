@@ -1,4 +1,4 @@
-# This is a repo for Banana classification
+# This is a repository for Banana classification
 
 
 This application uses MaskRCNN library from https://github.com/matterport/Mask_RCNN
